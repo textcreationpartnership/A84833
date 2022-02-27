@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord General's letter to to [sic] the Honorable William Lenthal Esq; Speaker of the Honorable House of Commons, wherein is fully related, the particulars of the fight at Maidstone, where were near three hundred slain, about one thousand three hundred prisoners, five hundred horse, three thousand arms, nine foot colours, and eight pieces of ordnance, with great store of ammunition, taken by the Lord Generals forces. With a relation of certain papers taken from the enemy, of the depth of their plot and engagements. Ordered by the Commons assembled in Parliament, that this letter be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84833</idno>
+            <idno type="STC">Wing F198</idno>
+            <idno type="STC">Thomason E446_8</idno>
+            <idno type="STC">ESTC R204421</idno>
+            <idno type="EEBO-CITATION">99863915</idno>
+            <idno type="PROQUEST">99863915</idno>
+            <idno type="VID">161775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84833)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161775)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E446[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord General's letter to to [sic] the Honorable William Lenthal Esq; Speaker of the Honorable House of Commons, wherein is fully related, the particulars of the fight at Maidstone, where were near three hundred slain, about one thousand three hundred prisoners, five hundred horse, three thousand arms, nine foot colours, and eight pieces of ordnance, with great store of ammunition, taken by the Lord Generals forces. With a relation of certain papers taken from the enemy, of the depth of their plot and engagements. Ordered by the Commons assembled in Parliament, that this letter be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>Lenthall, William, 1591-1662.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, Printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 6. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Kent --  Early works to 1800.</term>
+               <term>Maidstone (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161775:1" rendition="simple:additions"/>
+            <p>The Lord General's LETTER TO To the Honorable <hi>William Lenthal</hi> Eſq; Speaker of the Honorable Houſe of COMMONS, Wherein is fully related, The Particulars of the Fight at <hi>MAIDSTONE,</hi> Where were near Three hundred ſlain, about One thouſand three hundred Priſoners, Five hundred Horſe, Three thouſand Arms, Nine Foot Colours, and Eight pieces of Ordnance, with great ſtore of Ammunition, taken by the Lord Generals Forces.</p>
+            <p>With a Relation of certain <hi>PAPERS</hi> taken from the Enemy, of the depth of their Plot and Engagements.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons aſſembled in Parliament, That this Letter be forthwith Printed and Pub<g ref="char:EOLhyphen"/>liſhed.</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Commons. <hi>June</hi> 6. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161775:2"/>
+            <pb n="3" facs="tcp:161775:2"/>
+            <head>TO The Honorable <hi>William Lenthal</hi> Eſq; Speaker of the Honorable Houſe of COMMONS.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>I Shall according to my laſt give you this further Accompt of our ſucceſs at <hi>Maid<g ref="char:EOLhyphen"/>ſtone:</hi> Upon Thurſday in the evening a<g ref="char:EOLhyphen"/>bout Seven of the clock, after very long marches, we got near the Town, and a Troop of Dragoons was ſent to make good a Paſs, whileſt the Town was viewing at what place our men might beſt enter, it be<g ref="char:EOLhyphen"/>ing reſolved upon to force our paſſage, in caſe of reſiſtance, the gaining of that Town over the River being of great advantage to our Affairs; but before there could be a view taken of the Town, the Dragoons had en<g ref="char:EOLhyphen"/>gaged the Enemy; and forc'd them from that ground which they kept; the Dragoons being very forward to engage, purſued, and ſo the Enemy drew forth a conſiderable par<g ref="char:EOLhyphen"/>ty
+<pb n="4" facs="tcp:161775:3"/>of Horſe and Foot to maintain a Paſs a<g ref="char:EOLhyphen"/>gainſt us, which neceſsitated the drawing down of the greateſt part of the Foot, with ſome horſe: and though that part of the town was of the greateſt difficulty to enter, yet through the goodneſs of God our men made their entrance, and became Maſters of the Town, after four or five hours hot Service; the Town being very ſtrongly Barricoed, and through the darkneſs of the night, and our ignorance of the Town, they diſputed the Barricadoes and places of advantage with our men, playing hard with their Ca<g ref="char:EOLhyphen"/>non upon them: In which Service, both Horſe and Foot did exceeding well; and par<g ref="char:EOLhyphen"/>ticularly I cannot but take notice of the va<g ref="char:EOLhyphen"/>lor and reſolution of Col: <hi>Hewſon,</hi> whoſe Regiment had the hardeſt task, Major <hi>Carter</hi> his Major being hurt, and Captain <hi>Price,</hi> a deſerving and faithful Officer, ſlain: The beſt of their men were there, whereof ma<g ref="char:EOLhyphen"/>ny were Cavaliers and <hi>London</hi> Apprentices; they look'd upon the conſequence of that place to be very great, and therefore did re<g ref="char:EOLhyphen"/>ſolve to make what reſiſtance they could,
+<pb n="5" facs="tcp:161775:3"/>the old Lord <hi>Goring</hi> being that day Proclaim<g ref="char:EOLhyphen"/>ed General at the head of their Army upon the Hill near <hi>Aylsford,</hi> where we ſaw their Body drawn up, which as their Priſoners ſince do confeſs, and they themſelves gave out, conſiſted of Eight thouſand men, be<g ref="char:EOLhyphen"/>ſides thoſe in <hi>Maidſtone</hi> and <hi>Aylsford;</hi> in both which places there were about Three thou<g ref="char:EOLhyphen"/>ſand men, thoſe of <hi>Aylsford</hi> coming as a freſh ſupply to relieve thoſe engaged in <hi>Maidſtone:</hi> There were near Three hundred ſlain, and a<g ref="char:EOLhyphen"/>bout One thouſand three hundred Priſoners, many of them being taken next morning early in the Woods, Hopyards and Fields whether they fled in the time of the fight; a<g ref="char:EOLhyphen"/>mongſt which were Gentlemen of good qua<g ref="char:EOLhyphen"/>lity, Sir <hi>Gamaliel Dudley,</hi> Sir <hi>William Brockman,</hi> Squire <hi>Scot,</hi> and Major <hi>Price,</hi> and others, a Liſt whereof is preparing to be ſent. There were about Five hundred Horſe, Three thouſand Arms, Nine Foot Colours, and Eight pieces of Canon, with ſtore of Am<g ref="char:EOLhyphen"/>munition alſo taken. In the firſt Charge which our Forlorn-hope gave the Enemies Horſe (wherein our Horſe carried them<g ref="char:EOLhyphen"/>ſelves
+<pb n="6" facs="tcp:161775:4"/>very gallantly, as I ſince hear) Sir <hi>Iohn Many,</hi> and divers others of quality were ſlain. After it pleaſed the Lord to give us this great mercy in gaining of the Town, their men received ſo great diſcouragement, that the greateſt part of their Army left them, and were diſperſed, and a great num<g ref="char:EOLhyphen"/>ber of Officers and Gentlemen ſince fled to ſhift for themſelves: Their word at the Ingagement was, <hi>King and Kent;</hi> ours, <hi>Truth.</hi> Having thus poſſeſſed our ſelves of the paſſes at Maidſtone and Aylesford, the Enemy being much confuſed with our Succeſs, and their own men deſerting them, they at laſt marched over Rocheſter bridge towards Black-Heath with about Three thouſand Horſe and Foot, moſt of which were Cava<g ref="char:EOLhyphen"/>liers, Apprentices and Watermen, our men being not able to make ſo ſpeedy a march af<g ref="char:EOLhyphen"/>ter them as was neceſſary. I ſent Col: <hi>Wha<g ref="char:EOLhyphen"/>ley</hi> with a party of Horſe and Dragoons af<g ref="char:EOLhyphen"/>ter them, upon whoſe approach they have left Kent, and are fled over the water into Eſſex by Woolwich and Greenwich: Colo<g ref="char:EOLhyphen"/>nel <hi>Whaley</hi> is in purſuit, and I doubt not
+<pb n="7" facs="tcp:161775:4"/>but he will give a good Account of that Service.</p>
+            <p>I have ſent Colonel <hi>Rich</hi> with a party of Horſe and Foot to relieve Dover, where I truſt we ſhall finde the ſame preſence of God as hitherto hath been: My prayer to the Lord is, That this great mercy may be further improved to his glory, and this Kingdoms good. I thought fit to preſent unto the Houſe theſe Papers incloſed, taken from the Enemy, whereby you will perceive the depth of their Plot, and their Ingage<g ref="char:EOLhyphen"/>ments to purſue what they have underta<g ref="char:EOLhyphen"/>ken, and granting Commiſsions to raiſe Regiments, and the Oath of Secreſie, which they took for the better management of their Affairs: I have ſecured the Major of Rocheſter, whoſe hand is to the Commiſsi<g ref="char:EOLhyphen"/>ons granted for raiſing of Forces. I remain</p>
+            <closer>
+               <signed>Your humble Servant, <hi>T. Fairfax.</hi>
+               </signed>
+               <dateline>Rocheſter, <date>4 Junii, 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>I deſire you to be pleaſed to move the Houſe on the behalf of the Widow and Children of Captain
+<pb n="8" facs="tcp:161775:5"/>
+                  <hi>Price,</hi> that ſome proviſion may be made for them, and the Arrears of her Husband paid unto them, for their preſent ſubſiſtence; that thoſe who adven<g ref="char:EOLhyphen"/>ture their lives for the Service of the Publique, may receive encouragement for their faithfulneſs to the Publique.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
